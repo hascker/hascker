@@ -3,10 +3,28 @@
 
   # Abdiladif Hassan Adan
   ### 🛡️ Cyber Security Engineer | AppSec | Cloud Security Architect | DevSecOps
-  <p align="center">
-    <img src="https://img.shields.io/badge/BSc_Computer_Science-First_Class_Honours-FFD700?style=for-the-badge" alt="First Class Honours">
-    <img src="https://img.shields.io/badge/ISC2_Certified-Cybersecurity_(CC)-FFF?style=for-the-badge" alt="ISC2 CC">
-  </p>
+  <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+          <img src="./fch.png" width="150" alt="Credly Badge">
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/0eefa886-6aae-46fb-819d-2aa6435b516a/public" target="_blank">
+          <img src="https://images.credly.com/size/220x220/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="150" alt="Credly Badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/BSc_Computer_Science-First_Class_Honours-FFD700?style=for-the-badge" alt="First Class Honours">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/ISC2_Certified-Cybersecurity_(CC)-FFF?style=for-the-badge" alt="ISC2 CC">
+      </td>
+    </tr>
+  </table>
+</div>
   
    <p>
     <a href="https://www.linkedin.com/in/hassanjr">
@@ -18,6 +36,8 @@
   </p>
 
 </div>
+
+
 
 ---
 
