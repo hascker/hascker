@@ -23,13 +23,13 @@
 
 ## 🎯 Executive Summary
 
-I am an **ISC2 Certified Cyber Security Engineer** and Infrastructure Architect with a First Class Honours degree in Computer Science. I do not just run automated vulnerability scanners; I engineer secure systems from the ground up. My expertise sits at the critical intersection of Application Security (AppSec), Cloud Infrastructure, and DevSecOps. By leveraging a deep, architectural understanding of modern microservices and complex data pipelines, I proactively identify attack vectors, enforce strict Principle of Least Privilege (PoLP) access controls, and guarantee 100% system availability and data integrity under volatile network conditions. 
+As an ISC2-Certified Cybersecurity Professional and a First Class Honours graduate in Computer Science from the University of Nairobi, I bring a rare combination of verified security fundamentals and elite technical aptitude. With specialized expertise in Application security, Cloud Security Architect, DevSecOps, and Computer Network Security, I am equipped to immediately contribute to your security operations and help fortify your organization's digital assets. 
 
 ---
 
 ## 📜 Certifications & Core Competencies
 
-* 🏆 **ISC2 Certified in Cybersecurity (CC)** - Validated expertise in Access Controls, Network Security, Security Operations, Incident Response, and Disaster Recovery (DR).
+* 🏆 <a href="https://www.credly.com/badges/0eefa886-6aae-46fb-819d-2aa6435b516a/public_url">**ISC2 Certified in Cybersecurity (CC)**</a> - Validated expertise in Access Controls, Network Security, Security Operations, Incident Response, and Disaster Recovery (DR).
 * 🎓 **BSc Computer Science (First Class Honours)** - University of Nairobi (GPA: 3.68/4.00). Advanced coursework in Distributed Databases and Cloud Computing.
 
 ---
